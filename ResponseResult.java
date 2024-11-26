@@ -1,4 +1,3 @@
-package xyz.kuailemao.domain.response;
 
 import com.alibaba.fastjson2.JSONObject;
 import com.alibaba.fastjson2.JSONWriter;
@@ -7,7 +6,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import xyz.kuailemao.enums.RespEnum;
+
 
 /**
  * 统一响应类
